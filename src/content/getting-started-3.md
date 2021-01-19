@@ -20,6 +20,8 @@ tutorials:
     link: https://github.com/keefertaylor/TezosKit
   - title: KotlinTezos - Android/Kotlin toolbox
     link: https://gitlab.com/camlcase-dev/kotlin-tezos
+  - title: Dart Library for building Mobile Apps in Flutter
+    link: https://pub.dev/packages/tezster_dart
   - title: PyTezos - Python SDK
     link: https://github.com/baking-bad/pytezos
   - title: Sotez - JavaScript library
